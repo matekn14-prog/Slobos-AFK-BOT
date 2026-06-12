@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Jakub Pępczak",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "nikolamarszczyfred67.aternos.me",
+    "port": 16848,
     "version": "1.21.1"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Jakub is awesome!",
         "I like to play Minecraft!"
       ]
     },
